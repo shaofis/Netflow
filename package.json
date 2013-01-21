@@ -1,6 +1,6 @@
 {
   "name": "Netflow",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Netflow parser for Node.js",
   "author": "Chris Jones <chris@modse.net>",
   "licenses":[
