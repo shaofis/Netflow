@@ -1,0 +1,22 @@
+{
+  "name": "Netflow",
+  "version": "0.0.2",
+  "description": "Netflow parser for Node.js",
+  "author": "Chris Jones <chris@modse.net>",
+  "licenses":[
+    {
+      "type": "MIT"
+    }
+  ]
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/shaofis/Netflow.git"
+    }
+  ],
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "main": "./lib/netflow.js"
+}
