@@ -11,7 +11,7 @@ npm install https://github.com/shaofis/Netflow/tarball/master
 Basic Example
 =============
 
-    var NetFlowPacket = require('./NetFlowPacket')
+    var NetFlowPacket = require('netflow')
     var dgram = require('dgram')
 
     var server = dgram.createSocket('udp4');
